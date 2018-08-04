@@ -4,7 +4,7 @@ Original paper: https://arxiv.org/abs/1808.00508
 
 # Usage
 
-```
+```python
 from nalu import nalu
 
 nalu(input_tensor, num_outputs)
